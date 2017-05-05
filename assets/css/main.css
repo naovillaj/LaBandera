@@ -1,0 +1,16 @@
+.cuadrado{
+	width: 250px;
+	height: 250px;
+}
+
+.amarillo{
+	background-color: yellow;
+}
+
+.azul{
+	background-color: blue;
+}
+
+.rojo{
+	background-color: red;
+}
