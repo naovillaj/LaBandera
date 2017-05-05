@@ -1,6 +1,7 @@
-.cuadrado{
-	width: 250px;
+.cuadrado2{
 	height: 250px;
+	width: 250px;
+	float: left;
 }
 
 .amarillo{
