@@ -1,7 +1,13 @@
+
 .cuadrado2{
 	height: 250px;
 	width: 250px;
 	float: left;
+
+.cuadrado3{
+	width: 250px;
+	height: 250px;
+	float: right;
 }
 
 .amarillo{
